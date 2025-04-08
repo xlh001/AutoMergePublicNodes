@@ -2,22 +2,28 @@ proxies:
 - client-fingerprint: ''
   flow: ''
   mode: ''
-  name: 1|🇨🇭1 |  5.8MB/s
+  name: 1|🇨🇭1 |  5.6MB/s
   network: ws
-  port: 8080
-  server: 173.245.59.100
-  servername: ''
-  tls: false
+  port: 443
+  server: cloudgetservice.mcloudservice.site
+  servername: maxnETVipAp.nEtKh3.sitE
+  tls: true
   type: vless
   udp: false
-  uuid: 4113e9e7-6062-446a-a2d3-bc0a62691681
+  uuid: 5ce807ba-54f1-4799-b7b6-c67a5fdf9e0e
   ws-opts:
     headers:
-      Host: prnim.kipa2.ir
-    path: /@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir
+      Host: maxnETVipAp.nEtKh3.sitE
+    path: /linkws?ed=2560
+- cipher: aes-256-cfb
+  name: 1|🇨🇭2 |  5.5MB/s
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 84.17.53.160
+  type: ss
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 13|CH_speednode_0001
+  name: 1|🇨🇭3 |  5.5MB/s
   port: 443
   server: yapc-1.afshin.ir
   servername: YAPC-1.afshin.ir
