@@ -1,11 +1,19 @@
 proxies:
+- name: 2|🇫🇷1 |  2.2MB/s|16%|Openai
+  password: dongtaiwang.com
+  port: 4489
+  server: hy2-1.694463.xyz
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   auth-str: dongtaiwang.com
   auth_str: dongtaiwang.com
   delay: 1173
   down: 100
-  name: 2|🇫🇷1 |  4.9MB/s|16%|Openai
+  name: 2|🇫🇷2 |  1.2MB/s|16%|Openai
   port: 14241
   protocol: udp
   server: 51.159.226.1
@@ -14,46 +22,64 @@ proxies:
   type: hysteria
   udp: true
   up: 100
-- delay: 703
-  down: ''
+- down: ''
   fingerprint: ''
-  name: 2|🇫🇷2 |  4.8MB/s|16%|Openai
+  name: 2|🇫🇷3 |  4.2MB/s|16%|Openai
   obfs: ''
   obfs-password: ''
   password: dongtaiwang.com
-  port: 4489
+  port: '4489'
   server: 51.158.205.126
   skip-cert-verify: true
   sni: www.bing.com
   type: hysteria2
   up: ''
-- name: 2|🇫🇷3 |  1.7MB/s|16%|Openai
-  password: dongtaiwang.com
-  port: 4489
-  server: hy2-1.694463.xyz
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- client-fingerprint: chrome
-  name: 2|🇫🇷4 |  5.1MB/s|Youtube|Openai
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 2|🇫🇷4 |  2.0MB/s|34%|Youtube|Ope...
   network: tcp
-  port: '2040'
-  reality-opts:
-    public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
-    short-id: 27cfa05000c23cc4
-  server: 45.95.233.8
-  servername: fr.ign.com
+  password: telegram-id-directvpn
+  port: '22223'
+  server: 13.37.64.182
+  skip-cert-verify: false
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 2|🇫🇷5 |  4.7MB/s|34%|Openai
+  network: tcp
+  password: telegram-id-privatevpns
+  port: '22222'
+  server: 13.37.64.182
+  skip-cert-verify: false
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 2|🇫🇷6 |  5.6MB/s|34%|Youtube|Ope...
+  network: ws
+  port: '22224'
+  server: 13.37.64.182
+  servername: trojan.burgerip.co.uk
   tls: true
   type: vless
   udp: true
-  uuid: 10b59513-ef76-4494-a925-305ec45dd3a4
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  ws-opts:
+    headers:
+      Host: ''
+      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    path: /telegram-channel-vlessconfig
   xudp: true
 - alpn:
   - h3
   - h2
   client-fingerprint: chrome
-  name: 2|🇫🇷5 |  1.8MB/s|46%|Openai
+  name: 2|🇫🇷7 |  2.1MB/s|46%|Openai
   network: ws
   port: '443'
   server: 194.53.53.34
@@ -65,31 +91,35 @@ proxies:
   ws-opts:
     headers:
       Host: Wv2NhB0hVh.SoLiJoNiTo.CoM
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/69.0.3497.100 Safari/537.36
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/60.0.3112.113 Safari/537.36
     path: /
   xudp: true
-- client-fingerprint: chrome
-  grpc-opts:
-    grpc-service-name: CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config
-  name: 2|🇫🇷6 |  1.2MB/s|0%|Youtube|Open...
-  network: grpc
-  port: '1210'
-  reality-opts:
-    public-key: YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E
-    short-id: 7fe29733
-  server: 141.227.138.11
-  servername: ubuntu.com
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  name: 2|🇫🇷8 |  3.5MB/s|38%|Openai
+  network: ws
+  port: '2096'
+  server: canva.com
+  servername: rEDzOnE.MirAcLehEaRTbIt.ICu
   tls: true
   type: vless
   udp: true
-  uuid: 83ee0d49-d693-41cb-b97f-1f69fa3e89cd
+  uuid: 08fb790c-1d2d-433c-a588-fa3b6193c926
+  ws-opts:
+    headers:
+      Host: rEDzOnE.MirAcLehEaRTbIt.ICu
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/63.0.3239.132 Safari/537.36
+    path: /2096/@V2RayyNGVpn
   xudp: true
 - client-fingerprint: chrome
-  name: 2|🇫🇷7 |  3.0MB/s|34%|Youtube|Ope...
+  name: 2|🇫🇷9 |  1.3MB/s|34%|Youtube|Ope...
   network: ws
   port: '22224'
-  server: 15.237.238.127
+  server: 15.236.121.158
   servername: trojan.burgerip.co.uk
   tls: true
   type: vless
@@ -98,17 +128,72 @@ proxies:
   ws-opts:
     headers:
       Host: ''
-      User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36
-        (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      User-Agent: Mozilla/5.0 (Linux; Android 7.0; TRT-LX3 Build/HUAWEITRT-LX3) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
     path: /telegram-channel-vlessconfig
   xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 2|🇫🇷10 |  1.7MB/s|34%|Youtube|Op...
+  network: tcp
+  password: telegram-id-directvpn
+  port: '22223'
+  server: 15.236.121.158
+  skip-cert-verify: false
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- name: 2|🇫🇷11 |  1.0MB/s|45%|Openai
+  network: ws
+  port: '8880'
+  server: 172.67.204.84
+  type: vless
+  udp: true
+  uuid: 1a19a724-3922-475f-9b35-9f223b5a88ba
+  ws-opts:
+    headers:
+      Host: join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/70.0.3538.102 Safari/537.36
+    path: /?ed=2048
+  xudp: true
+- client-fingerprint: randomized
+  name: 2|🇫🇷12 |  1.8MB/s|38%|Youtube|Op...
+  network: ws
+  port: '2096'
+  server: 172.67.69.236
+  servername: rEDzOnE.MirAcLehEaRTbIt.ICu
+  tls: true
+  type: vless
+  udp: true
+  uuid: b8b3ec28-3be1-4d06-b423-274974abd395
+  ws-opts:
+    headers:
+      Host: rEDzOnE.MirAcLehEaRTbIt.ICu
+      User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/55.0.2883.87 Safari/537.36
+    path: /2096/@V2RayyNGVpn
+  xudp: true
+- down: ''
+  fingerprint: ''
+  name: 2|🇫🇷13 |  5.4MB/s|0%|Youtube|Ope...
+  obfs: ''
+  obfs-password: ''
+  password: dongtaiwang.com
+  port: '4489'
+  server: 195.154.33.70
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
 - alpn:
   - h3
   auth-str: dongtaiwang.com
   auth_str: dongtaiwang.com
   delay: 941
   down: 55
-  name: 2|🇫🇷8 |  6.1MB/s|0%|Youtube|Open...
+  name: 2|🇫🇷14 |  4.3MB/s|0%|Youtube|Ope...
   port: 46938
   protocol: udp
   server: 195.154.200.178

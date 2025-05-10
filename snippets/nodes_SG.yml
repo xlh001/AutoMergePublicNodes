@@ -1,49 +1,47 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇸🇬新加坡 01 | 1x SG
-  password: c11b6ebc-5b31-4586-854b-513c8eaabe0f
-  port: 31171
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇸🇬新加坡 02 | 1x SG
-  password: c11b6ebc-5b31-4586-854b-513c8eaabe0f
-  port: 31173
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇸🇬新加坡 03 | 1x SG
-  password: c11b6ebc-5b31-4586-854b-513c8eaabe0f
-  port: 31175
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 1|🇸🇬 新加坡 01 | 1x SG
-  password: 751edc44-4782-4a4f-90a6-6547aac95be7
+  name: 0|🇸🇬 新加坡 01 | 1x SG
+  password: 2f51818c-5d82-4457-bca5-f36c8e48e1cf
   port: 36171
   server: free.2weradf.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇸🇬 新加坡 02 | 1x SG
-  password: 751edc44-4782-4a4f-90a6-6547aac95be7
+  name: 0|🇸🇬 新加坡 02 | 1x SG
+  password: 2f51818c-5d82-4457-bca5-f36c8e48e1cf
   port: 36173
   server: free.2weradf.xyz
   type: ss
   udp: true
-- cipher: aes-256-cfb
-  name: 2|🇸🇬1 |  2.0MB/s|54%|Youtube|Ope...
-  obfs: tls1.2_ticket_auth
-  obfs-param: sg2-cdn-route.couldflare-cdn.com
-  password: uiACqrIr
-  port: 56138
-  protocol: origin
-  protocol-param: ''
-  server: cm2.xcone.xyz
-  type: ssr
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇸🇬新加坡 01 | 1x SG
+  password: 5e066934-6b6b-4880-abc7-df51b1cb8a00
+  port: 31171
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇸🇬新加坡 02 | 1x SG
+  password: 5e066934-6b6b-4880-abc7-df51b1cb8a00
+  port: 31173
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇸🇬新加坡 03 | 1x SG
+  password: 5e066934-6b6b-4880-abc7-df51b1cb8a00
+  port: 31175
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: 2|🇸🇬2 |  6.1MB/s|0%|Netflix|Disn...
+  password: 54231b3d-a39d-4769-a511-2a1c663a62b1
+  port: '443'
+  server: sg02.trojanyyds.xyz
+  skip-cert-verify: false
+  sni: sg02.trojanyyds.xyz
+  type: trojan
   udp: true
 - alterId: 2
   cipher: auto

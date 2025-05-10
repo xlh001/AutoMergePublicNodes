@@ -1,149 +1,90 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇺🇸美国 01 | 1x US Los Angeles
-  password: c11b6ebc-5b31-4586-854b-513c8eaabe0f
-  port: 31211
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇺🇸美国家宽 02 | 1x US Los Angeles
-  password: c11b6ebc-5b31-4586-854b-513c8eaabe0f
-  port: 31213
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇺🇸美国 03 | 1x US Washington
-  password: c11b6ebc-5b31-4586-854b-513c8eaabe0f
-  port: 31215
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 1|🇺🇸 美国 01 | 1x US Los Angeles
-  password: 751edc44-4782-4a4f-90a6-6547aac95be7
+  name: 0|🇺🇸 美国 01 | 1x US Los Angeles
+  password: 2f51818c-5d82-4457-bca5-f36c8e48e1cf
   port: 36211
   server: free.2weradf.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇺🇸 美国住宅IP 02 | 1x US Los Angel...
-  password: 751edc44-4782-4a4f-90a6-6547aac95be7
+  name: 0|🇺🇸 美国住宅IP 02 | 1x US Los Angel...
+  password: 2f51818c-5d82-4457-bca5-f36c8e48e1cf
   port: 36213
   server: free.2weradf.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇺🇸 美国 03 | 1x US Washington
-  password: 751edc44-4782-4a4f-90a6-6547aac95be7
+  name: 0|🇺🇸 美国 03 | 1x US Washington
+  password: 2f51818c-5d82-4457-bca5-f36c8e48e1cf
   port: 36215
   server: free.2weradf.xyz
   type: ss
   udp: true
-- alterId: 2
-  cipher: auto
-  name: 2|🇺🇸24 |  4.3MB/s|31%|Openai|Gem...
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇺🇸美国 01 | 1x US Los Angeles
+  password: 5e066934-6b6b-4880-abc7-df51b1cb8a00
+  port: 31211
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇺🇸美国家宽 02 | 1x US Los Angeles
+  password: 5e066934-6b6b-4880-abc7-df51b1cb8a00
+  port: 31213
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇺🇸美国 03 | 1x US Washington
+  password: 5e066934-6b6b-4880-abc7-df51b1cb8a00
+  port: 31215
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: 2|🇺🇸10 |  1.2MB/s|47%|Openai|Gem...
+  password: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
+  port: '15229'
+  server: 15606cc9-sw3ts0-t1bnjq-1krtb.cu.plebai.net
+  skip-cert-verify: false
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 2|🇺🇸27 |  2.6MB/s|56%|Openai
   network: ws
-  port: 22641
-  server: tk.hzlt.tkddns.xyz
-  skip-cert-verify: true
+  password: aTArbZ2F0E
+  port: '443'
+  server: cloudgetservice.mcloudservice.site
+  skip-cert-verify: false
+  sni: uSa-vp-27.bLAzECLOUD.SITE
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like
+        Gecko) Chrome/11.0.696.3 Safari/534.24
+    path: /linkvkws
+- alterId: '0'
+  cipher: auto
+  name: 2|🇺🇸28 |  1.7MB/s|32%|Openai
+  network: ws
+  port: '443'
+  server: m8uuujiddvb.457.pp.ua
+  skip-cert-verify: false
   tls: true
   type: vmess
   udp: true
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-headers:
-    Host: zxjp-a.tkong.cc
-  ws-path: /
-- alterId: '0'
-  cipher: auto
-  name: 2|🇺🇸37 |  1.0MB/s|32%|Youtube|Op...
-  network: ws
-  port: '80'
-  server: 104.21.32.242
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 0a28b420-4f7c-43ad-a29e-80068ce08263
+  uuid: b30a50bc-0f63-422d-bbd6-8c790c0abb4d
   ws-opts:
     headers:
-      Host: m11sdfg.890604.dpdns.org
-    path: /lhU8ShsoPZlulnnYPb86csp
+      Host: m8uuujiddvb.457.pp.ua
+    path: /OhijtPrXs2pASR866TVMXPAl
   xudp: true
-- alpn:
-  - http/1.1
-  client-fingerprint: chrome
-  name: 2|🇺🇸38 |  3.5MB/s|34%|Openai
-  network: ws
-  password: ca48571a-403f-44b9-b2a6-e17c36d7cacc
-  port: '443'
-  server: 104.21.32.1
-  skip-cert-verify: false
-  sni: 10r.iran1912.dpdns.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/36.0.1985.125 Safari/537.36
-    path: /VEP415T5mby2DulPWRIwOavJd
-- alpn:
-  - http/1.1
-  client-fingerprint: chrome
-  name: 2|🇺🇸39 |  3.0MB/s|34%|Openai
-  network: ws
-  password: ca48571a-403f-44b9-b2a6-e17c36d7cacc
-  port: '443'
-  server: 104.21.16.1
-  skip-cert-verify: false
-  sni: 10r.iran1912.dpdns.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.7
-        (KHTML, like Gecko) Chrome/7.0.517.44 Safari/534.7
-    path: /VEP415T5mby2DulPWRIwOavJd
-- alpn:
-  - http/1.1
-  client-fingerprint: chrome
-  name: 2|🇺🇸40 |  5.1MB/s|34%|Openai
-  network: ws
-  password: ca48571a-403f-44b9-b2a6-e17c36d7cacc
-  port: '443'
-  server: 104.21.80.1
-  skip-cert-verify: false
-  sni: 10r.iran1912.dpdns.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/59.0.3071.115 Safari/537.36
-    path: /VEP415T5mby2DulPWRIwOavJd
-- alpn:
-  - http/1.1
-  client-fingerprint: chrome
-  name: 2|🇺🇸42 |  4.8MB/s|0%|Netflix|Dis...
-  network: ws
-  password: 9e7caa3b-ca9c-40ba-9ea0-f0c992359239
-  port: '443'
-  server: 104.21.86.140
-  skip-cert-verify: false
-  sni: m2rrrty.777219.xyz
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/55.0.2883.87 Safari/537.36
-    path: /duJhdsnTCbijwHNYeMcCs9
-- alterId: 2
+- alterId: '2'
   cipher: auto
-  name: 2|🇺🇸46 |  5.9MB/s|31%|Openai
+  name: 2|🇺🇸30 |  1.0MB/s|31%|Openai
   network: ws
-  port: 22643
+  port: '22643'
   server: tk.hzlt.tkddns.xyz
   servername: zxjp-c.tkong.cc
   skip-cert-verify: false
@@ -156,61 +97,29 @@ proxies:
       Host: zxjp-c.tkong.cc
     path: /
   xudp: true
-- alterId: '0'
+- alterId: 2
   cipher: auto
-  name: 2|🇺🇸49 |  5.2MB/s|0%|Openai
+  client-fingerprint: chrome
+  name: 2,12,13|美国4|@ripaojiedian
   network: ws
-  port: '443'
-  server: xc132.meiziba5566.com
-  servername: xc132.meiziba5566.com
+  port: '22642'
+  server: tk.hzlt.tkddns.xyz
+  servername: zxjp-b.tkong.cc
   skip-cert-verify: false
+  tfo: false
   tls: true
   type: vmess
   udp: true
-  uuid: 28b33c85-3e14-4323-ed50-d6e4d4d773a8
+  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
   ws-opts:
     headers:
-      Host: xc132.meiziba5566.com
-    path: /28b33c85
-  xudp: true
-- alterId: 0
-  cipher: auto
-  name: 2|🇺🇸72 |  1.1MB/s|32%|Youtube|Op...
-  network: ws
-  port: 80
-  server: m11sdfg.890604.dpdns.org
-  servername: m11sdfg.890604.dpdns.org
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 0a28b420-4f7c-43ad-a29e-80068ce08263
-  ws-opts:
-    headers:
-      Host: m11sdfg.890604.dpdns.org
-    path: /lhU8ShsoPZlulnnYPb86csp
+      Host: zxjp-b.tkong.cc
+    path: /
   xudp: true
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 2|🇺🇸58 |  5.7MB/s|67%|Openai
-  network: ws
-  password: 114ad614-fe6c-4422-b0af-be6161190d7a
-  port: '443'
-  server: 104.21.61.154
-  skip-cert-verify: false
-  sni: DDrt.191266.Xyz
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36
-        (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36
-    path: /By7cEmOrNRS58yeduy9AOG
-- alpn:
-  - http/1.1
-  client-fingerprint: chrome
-  name: 2|🇺🇸59 |  3.8MB/s|34%|Openai
+  name: 2|🇺🇸35 |  4.9MB/s|Openai
   network: ws
   password: ca48571a-403f-44b9-b2a6-e17c36d7cacc
   port: '443'
@@ -221,13 +130,169 @@ proxies:
   udp: true
   ws-opts:
     headers:
-      User-Agent: Mozilla/5.0 (Linux; Android 7.0; BLL-L22 Build/HUAWEIBLL-L22) AppleWebKit/537.36
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36
         (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36
+    path: /VEP415T5mby2DulPWRIwOavJd
+- client-fingerprint: chrome
+  name: 2|🇺🇸56 |  5.9MB/s|47%|Openai|Gem...
+  password: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
+  port: '15229'
+  server: c6b50ea5-sw5og0-t1bnjq-1krtb.cu.plebai.net
+  skip-cert-verify: false
+  type: trojan
+  udp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 2|🇺🇸60 |  4.6MB/s|32%|Netflix|Op...
+  network: ws
+  password: a926af96-2cfe-4169-8107-6c5f0d74a938
+  port: '443'
+  server: 104.21.32.1
+  skip-cert-verify: false
+  sni: zsde.7777128.xyz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/69.0.3497.100 Safari/537.36
+    path: /5NB3RVAWa3Uo1P5zFPkui
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 2|🇺🇸62 |  5.3MB/s|0%|Netflix|Dis...
+  network: ws
+  password: 9e7caa3b-ca9c-40ba-9ea0-f0c992359239
+  port: '443'
+  server: 172.67.220.93
+  skip-cert-verify: false
+  sni: m2rrrty.777219.xyz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko)
+        Slackware/Chrome/12.0.742.100 Safari/534.30
+    path: /duJhdsnTCbijwHNYeMcCs9
+- alterId: '2'
+  cipher: auto
+  name: 2|🇺🇸65 |  6.0MB/s|31%|Openai|Gem...
+  network: ws
+  port: '22641'
+  server: tk.hzlt.tkddns.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+  ws-opts:
+    headers:
+      Host: zxjp-a.tkong.cc
+    path: /
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 2|🇺🇸66 |  5.8MB/s|0%|Netflix|Dis...
+  network: ws
+  password: 9e7caa3b-ca9c-40ba-9ea0-f0c992359239
+  port: '443'
+  server: 104.21.86.140
+  skip-cert-verify: false
+  sni: m2rrrty.777219.xyz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Linux; Android 6.0; vivo 1606 Build/MMB29M) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36
+    path: /duJhdsnTCbijwHNYeMcCs9
+- client-fingerprint: chrome
+  name: 2|🇺🇸68 |  1.2MB/s|0%|Disney|Open...
+  network: ws
+  password: d889b4c8-dab9-4b0c-932b-e4071c727308
+  port: '443'
+  server: 172.67.158.146
+  skip-cert-verify: false
+  sni: M6ghjK.777169.xyz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10
+        (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+    path: /vFeLkPJXEksjERPwvxRA
+- alterId: '0'
+  cipher: auto
+  name: 2|🇺🇸69 |  3.9MB/s|56%|Openai
+  network: ws
+  port: 443
+  server: cloudgetservice.mcloudservice.site
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 96e44a22-4f5c-48f9-99d9-f2c1985dd5b9
+  ws-opts:
+    headers:
+      Host: Usa-Vp-192.blazEcloudMAin.SitE
+    path: /linkvkws
+  xudp: true
+- alterId: '0'
+  cipher: auto
+  name: 2|🇺🇸70 |  2.3MB/s|56%|Openai|Gem...
+  network: ws
+  port: 443
+  server: cloudgetservice.mcloudservice.site
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 81cfc74e-79f6-4187-9c11-58b6acdc0e83
+  ws-opts:
+    headers:
+      Host: uSa-Vp-149.BLazECloudMain.Site
+    path: /linkvkws
+  xudp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 2|🇺🇸74 |  5.8MB/s|34%|Openai
+  network: ws
+  password: ca48571a-403f-44b9-b2a6-e17c36d7cacc
+  port: '443'
+  server: 104.21.80.1
+  skip-cert-verify: false
+  sni: 10r.iran1912.dpdns.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/65.0.3325.181 Safari/537.36
     path: /VEP415T5mby2DulPWRIwOavJd
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 2|🇺🇸61 |  5.7MB/s|0%|Netflix|Dis...
+  name: 2|🇺🇸79 |  5.8MB/s|67%
+  network: ws
+  password: 114ad614-fe6c-4422-b0af-be6161190d7a
+  port: '443'
+  server: 172.67.211.136
+  skip-cert-verify: false
+  sni: DDrt.191266.Xyz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/52.0.2743.116 Safari/537.36
+    path: /By7cEmOrNRS58yeduy9AOG
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 2|🇺🇸82 |  6.2MB/s|0%|Netflix|Dis...
   network: ws
   password: 4069c35c-54ea-48ee-9ffa-05d9a0302043
   port: '443'
@@ -238,41 +303,49 @@ proxies:
   udp: true
   ws-opts:
     headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/57.0.2987.133 Safari/537.36
+      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+        Chrome/65.0.3325.181 Safari/537.36
     path: /GawgMugyRDAQXp6e0CScyGqcQZW
+- alterId: 0
+  cipher: auto
+  name: 2|🇺🇸83 |  1.4MB/s|23%|Disney|Ope...
+  network: ws
+  port: 443
+  server: codepen.io
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  udp: true
+  uuid: de94cc0a-0592-4969-b1fc-97ea8f0ea0b3
+  ws-opts:
+    headers:
+      Host: farid.1.berozha.ir
+    path: /us.kkp.me.eu.org/aa
+  xudp: true
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 2|🇺🇸65 |  1.4MB/s|34%|Openai
+  name: 2|🇺🇸86 |  1.0MB/s|67%|Openai
   network: ws
-  password: ca48571a-403f-44b9-b2a6-e17c36d7cacc
+  password: 114ad614-fe6c-4422-b0af-be6161190d7a
   port: '443'
-  server: 104.21.112.1
+  server: 104.21.61.154
   skip-cert-verify: false
-  sni: 10r.iran1912.dpdns.org
+  sni: DDrt.191266.Xyz
   type: trojan
   udp: true
   ws-opts:
     headers:
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/69.0.3497.100 Safari/537.36
-    path: /VEP415T5mby2DulPWRIwOavJd
-- alterId: 2
-  cipher: auto
-  name: 2|🇺🇸69 |  2.0MB/s|31%|Openai
-  network: ws
-  port: 22643
-  server: tk.hzlt.tkddns.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-headers:
-    Host: zxjp-c.tkong.cc
-  ws-path: /
-- name: 2|🇺🇸70 |  1.3MB/s|34%|Netflix|Op...
+      User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/70.0.3538.67 Safari/537.36
+    path: /By7cEmOrNRS58yeduy9AOG
+- cipher: aes-256-gcm
+  name: 2|🇺🇸87 |  1.0MB/s|51%|Disney|Ope...
+  password: kDWvXYZoTBcGkC4
+  port: 8881
+  server: 38.114.114.108
+  type: ss
+- name: 2|🇺🇸93 |  5.2MB/s|34%|Netflix|Op...
   network: ws
   password: ad4a124c-12fb-4467-9ad0-dc6d9b509ac0
   port: 443
@@ -283,53 +356,7 @@ proxies:
   ws-opts:
     headers:
       Host: 7bhui.191262.xyz
-    path: '%2FwGgR8FyAGgRCKSiyxgvJgLl'
-- name: 2|🇺🇸71 |  1.2MB/s|34%|Netflix|Op...
-  network: ws
-  password: ad4a124c-12fb-4467-9ad0-dc6d9b509ac0
-  port: 443
-  server: 104.21.112.1
-  skip-cert-verify: false
-  sni: 7bhui.191262.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: 7bhui.191262.xyz
     path: /wGgR8FyAGgRCKSiyxgvJgLl
-- alterId: 0
-  cipher: auto
-  name: 2|🇺🇸74 |  4.0MB/s|32%|Openai
-  network: ws
-  port: 443
-  server: m8uuujiddvb.457.pp.ua
-  servername: m8uuujiddvb.457.pp.ua
-  skip-cert-verify: true
-  tfo: false
-  tls: true
-  type: vmess
-  udp: true
-  uuid: b30a50bc-0f63-422d-bbd6-8c790c0abb4d
-  ws-opts:
-    headers:
-      Host: m8uuujiddvb.457.pp.ua
-    path: /OhijtPrXs2pASR866TVMXPAl
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: 2|🇺🇸75 |  1.5MB/s|31%|Openai|Gem...
-  network: ws
-  port: 22641
-  server: tk.hzlt.tkddns.xyz
-  servername: tk.hzlt.tkddns.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts:
-    headers:
-      Host: zxjp-a.tkong.cc
-    path: /
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
@@ -367,23 +394,6 @@ proxies:
   server: 38.114.114.108
   tfo: false
   type: ss
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: 12,13|美国4|@ripaojiedian
-  network: ws
-  port: '22642'
-  server: tk.hzlt.tkddns.xyz
-  servername: zxjp-b.tkong.cc
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vmess
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts:
-    headers:
-      Host: zxjp-b.tkong.cc
-    path: /
 - alterId: 64
   cipher: auto
   client-fingerprint: chrome

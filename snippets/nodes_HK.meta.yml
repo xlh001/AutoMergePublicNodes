@@ -1,48 +1,46 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰香港 02 | 1x HK
-  password: c11b6ebc-5b31-4586-854b-513c8eaabe0f
-  port: 31143
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰香港家宽 03 | 1x HK
-  password: c11b6ebc-5b31-4586-854b-513c8eaabe0f
-  port: 31145
-  server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 1|🇭🇰 香港 02 | 1x HK
-  password: 751edc44-4782-4a4f-90a6-6547aac95be7
+  name: 0|🇭🇰 香港 02 | 1x HK
+  password: 2f51818c-5d82-4457-bca5-f36c8e48e1cf
   port: 36143
   server: free.2weradf.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇭🇰 香港住宅IP 03 | 1x HK
-  password: 751edc44-4782-4a4f-90a6-6547aac95be7
+  name: 0|🇭🇰 香港住宅IP 03 | 1x HK
+  password: 2f51818c-5d82-4457-bca5-f36c8e48e1cf
   port: 36145
   server: free.2weradf.xyz
   type: ss
   udp: true
-- client-fingerprint: chrome
-  name: 2|🇭🇰1 |  2.6MB/s|6%
-  password: cacb4d4fa26f4eed25e4d17a6370083c
-  port: 8443
-  server: hk04.sqx001.com
-  skip-cert-verify: true
-  tls: true
-  type: http
-  udp: true
-  username: dmpyoary@mayorlogistic.com
-- cipher: aes-256-gcm
-  name: 2|🇭🇰2 |  5.5MB/s|16%|Netflix|Dis...
-  password: 423cf642-6528-410c-b542-2aae04113d33
-  port: '11501'
-  server: cdn-p1-hk.weibo-dns.com
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇭🇰香港 02 | 1x HK
+  password: 5e066934-6b6b-4880-abc7-df51b1cb8a00
+  port: 31143
+  server: free.2apzhfa.xyz
   type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1|🇭🇰香港家宽 03 | 1x HK
+  password: 5e066934-6b6b-4880-abc7-df51b1cb8a00
+  port: 31145
+  server: free.2apzhfa.xyz
+  type: ss
+  udp: true
+- name: 2|🇭🇰1 |  1.3MB/s|0%
+  password: 2c605663-b89a-5734-a9d6-97d4743d72cf
+  port: 8313
+  server: dozo01.flztjc.top
+  skip-cert-verify: true
+  sni: dozo01.flztjc.top
+  type: trojan
+  udp: true
+- name: 2|🇭🇰2 |  3.6MB/s|Disney
+  password: 2c605663-b89a-5734-a9d6-97d4743d72cf
+  port: 8313
+  server: 183.232.235.2
+  skip-cert-verify: true
+  type: trojan
   udp: true
 - client-fingerprint: chrome
   name: 12|🇭🇰 香港|@ripaojiedian
