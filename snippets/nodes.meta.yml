@@ -78,15 +78,6 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: 9|70@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: EsimObfs_9mK2x7
-  password: EsimHy2Game_7xK9mPq2
-  port: 443
-  server: 198.105.112.118
-  sni: nl.esimpson.org
-  tls: false
-  type: hysteria2
 - name: '9|@prrofile_purple  ️ '
   obfs: salamander
   obfs-password: EsimObfs_9mK2x7
@@ -190,6 +181,15 @@ proxies:
   port: 443
   server: connect-ger2.gadmap.online
   sni: connect-ger2.gadmap.online
+  tls: false
+  type: hysteria2
+- name: 9|✈️95@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 3sv5vpdl9xr84lyb
+  password: lak374gtxzrxz241
+  port: 443
+  server: social.klipp.su
+  sni: social.klipp.su
   tls: false
   type: hysteria2
 - name: 9|telegram @mtmvpn
