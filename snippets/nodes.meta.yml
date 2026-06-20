@@ -70,6 +70,23 @@ proxies:
   sni: de1.xiaoliyu.cyou
   tls: false
   type: hysteria2
+- name: 9|@mehrosaboran
+  obfs: salamander
+  obfs-password: lmzo7ebpr6m8theh
+  password: 3xkqzhpnfhaahx0q
+  port: 5426
+  server: atts5vkx96ec.dxdx5.com
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: 9|️30@NetFlowTools
+  password: 940f51d6-e0a4-4add-b96b-328e4a84b642
+  port: 51000
+  server: 140.245.27.220
+  skip-cert-verify: true
+  sni: cn.cremedelamer.com
+  tls: false
+  type: hysteria2
 - name: '9|@prrofile_purple  ️ '
   obfs: salamander
   obfs-password: EsimObfs_9mK2x7
@@ -110,6 +127,15 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
+- name: 9|@V2RayyNGvpn🇦
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: V2RayyNGvpn
+  port: 80
+  server: 66.92.161.94
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 9| - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -118,6 +144,15 @@ proxies:
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 9|🇪@V2RayyNGvpn 🇩🇪
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: a2d6ZPXIID
+  port: 443
+  server: 185.250.41.245
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '9|@KAFING_2 #2'
@@ -145,7 +180,17 @@ proxies:
   sni: connect-ger2.gadmap.online
   tls: false
   type: hysteria2
-- name: 9|✈️95@oneclickvpnkeys
+- name: 9|🇦@V2RayyNGvpn🇨🇦
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: kjMoXj9ZxP
+  port: 443
+  server: 66.92.161.94
+  skip-cert-verify: true
+  sni: www.wordreference.com
+  tls: false
+  type: hysteria2
+- name: 9|✈️95@NetFlowTools
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: lak374gtxzrxz241
