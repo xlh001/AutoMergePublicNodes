@@ -63,7 +63,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9|@bored_vpn
+- name: 9|@mehrosaboran
   obfs: salamander
   obfs-password: lmzo7ebpr6m8theh
   password: 3xkqzhpnfhaahx0q
@@ -79,6 +79,15 @@ proxies:
   port: 443
   server: 185.250.41.245
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 9|94@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: EsimObfs_9mK2x7
+  password: EsimHy2Game_7xK9mPq2
+  port: 443
+  server: 198.105.112.118
+  sni: nl.esimpson.org
   tls: false
   type: hysteria2
 - name: '9|@prrofile_purple   '
@@ -109,15 +118,6 @@ proxies:
   server: gavazn.lnmarketplace.net
   skip-cert-verify: true
   sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
-- name: 9|@V2RayyNGvpn🇨🇦
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: V2RayyNGvpn
-  port: 80
-  server: 66.92.161.94
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 9|🇳🇱 - NL - @FreeOnlineVPN
@@ -195,16 +195,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 9|🇨🇦@V2RayyNGvpn🇨🇦
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: kjMoXj9ZxP
-  port: 443
-  server: 66.92.161.94
-  skip-cert-verify: true
-  sni: www.wordreference.com
-  tls: false
-  type: hysteria2
 - name: '9|telegram @mtmvpn #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -239,16 +229,6 @@ proxies:
   server: 80.66.81.78
   skip-cert-verify: false
   sni: tunel1.washing.help
-  tls: false
-  type: hysteria2
-- name: 9|🇱@V2RayyNGvpn🇱
-  obfs: salamander
-  obfs-password: T$me$V2RayyNGvpn@V2RayyNGvpn
-  password: wundefinedg2dqmQqM
-  port: 443
-  server: 82.47.63.181
-  skip-cert-verify: true
-  sni: www.wordreference.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
