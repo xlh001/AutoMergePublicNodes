@@ -235,16 +235,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 9|🇩🇪@V2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: t.me.V2RayyNGvpn
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  sni: www.wordreference.com
-  tls: false
-  type: hysteria2
 - cipher: aes-256-cfb
   name: 11|tg频道:@ripaojiedian
   password: amazonskr05
