@@ -1,4 +1,4 @@
-hysteria2://653m8mmiy7048p0f@nrealistic.nn-foto.ru:1935?sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=lhfl2z9mjngb7csh#8%7C%40v2reya88%20%7C%20%40confinghub2
+hysteria2://653m8mmiy7048p0f@nrealistic.nn-foto.ru:1935?sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=lhfl2z9mjngb7csh#8%7C%F0%9F%90%9963%40oneclickvpnkeys
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?insecure=1&sni=mg2.mangshe.xyz#8%7C2
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055?insecure=1&sni=xjp1.mangshe.xyz#8%7C1
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#8%7CJP
@@ -19,7 +19,6 @@ hysteria2://3xkqzhpnfhaahx0q@atts5vkx96ec.dxdx5.com:5426?insecure=0&obfs=salaman
 hysteria2://5U7LBgpLNj@87.120.106.36:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=T-me-V2RayyNGvpn-ioSniper#9%7C%40V2RayyNGvpn%F0%9F%87%B9%F0%9F%87%B7
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@31.76.28.28:443?sni=argg5.auragg.org#9%7C28%40oneclickvpnkeys
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#9%7C%40prrofile_purple%20%20%20
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy1.466688.xyz:443?insecure=1&sni=https://t.me/daily_free_vpn#9%7CTW_%40https%3A//t.me/daily_free_vp...
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy3.466688.xyz:443?insecure=1&sni=https://t.me/QiangLieTuiJian#9%7CJP_%40QiangLieTuiJian
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy4.466688.xyz:443?insecure=1&sni=https://t.me/QiangLieTuiJian#9%7CUS_%40QiangLieTuiJian
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#9%7C%2B%40Azarakhsh_Proxy%2B
@@ -91,4 +90,3 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.200.151:80?allowInsecure=1&
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.182.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#13%7CUS_speednode_0080
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.23.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#13%7CUS_speednode_0081
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.196.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#13%7CUS_speednode_0082
-hhy2://653m8mmiy7048p0f@nrealistic.nn-foto.ru:1935/?sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=lhfl2z9mjngb7csh#63@oneclickvpnkeys

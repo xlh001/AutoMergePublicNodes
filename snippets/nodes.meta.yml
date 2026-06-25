@@ -1,5 +1,5 @@
 proxies:
-- name: 8|@v2reya88 | @confinghub2
+- name: 8|🐙63@oneclickvpnkeys
   obfs: salamander
   obfs-password: lhfl2z9mjngb7csh
   password: 653m8mmiy7048p0f
@@ -168,14 +168,6 @@ proxies:
   server: 31.22.91.243
   skip-cert-verify: false
   sni: se.esimpson.org
-  tls: false
-  type: hysteria2
-- name: 9|TW_@https://t.me/daily_free_vp...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: hy1.466688.xyz
-  skip-cert-verify: true
-  sni: https://t.me/daily_free_vpn
   tls: false
   type: hysteria2
 - name: 9|JP_@QiangLieTuiJian
