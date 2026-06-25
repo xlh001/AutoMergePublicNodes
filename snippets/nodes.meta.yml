@@ -1,5 +1,14 @@
 proxies:
-- name: 8|美国2
+- name: 8|@v2reya88 | @confinghub2
+  obfs: salamander
+  obfs-password: lhfl2z9mjngb7csh
+  password: 653m8mmiy7048p0f
+  port: 1935
+  server: nrealistic.nn-foto.ru
+  sni: nrealistic.nn-foto.ru
+  tls: false
+  type: hysteria2
+- name: 8|2
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg2.mangshe.xyz
@@ -22,12 +31,12 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|🇨🇳TW_@WangCai_8
+- name: 8|🐙67@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 103.115.109.49
   skip-cert-verify: true
-  sni: https://t.me/WangCai2
+  sni: https://t.me/oneclickvpnkeys
   tls: false
   type: hysteria2
 - name: 8|JP_@WangCai_8
@@ -35,7 +44,15 @@ proxies:
   port: 443
   server: 13.231.108.76
   skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
+  sni: https://t.me/WangCai2
+  tls: false
+  type: hysteria2
+- name: 8|🐙61@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.174
+  skip-cert-verify: true
+  sni: https://t.me/oneclickvpnkeys
   tls: false
   type: hysteria2
 - name: 8|US_@WangCai_8
@@ -44,6 +61,22 @@ proxies:
   server: 54.203.4.232
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 8|🐙68@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 54.203.4.232
+  skip-cert-verify: true
+  sni: https://t.me/oneclickvpnkeys
+  tls: false
+  type: hysteria2
+- name: 8|🐙65@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-us-006.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-us-006.fastervpn.world
   tls: false
   type: hysteria2
 - name: 8|DE
@@ -71,6 +104,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 8|🐙66@oneclickvpnkeys
+  password: b95dd8e5-2758-408f-be99-9362eecee609
+  port: 10808
+  server: 191.44.113.251
+  sni: files.fantoff.online
+  tls: false
+  type: hysteria2
 - name: 8|SG
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
@@ -87,6 +127,13 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|🐙62@oneclickvpnkeys
+  password: g00teh7gcl67irgs
+  port: 443
+  server: 167.172.93.124
+  sni: 167.172.93.124
+  tls: false
+  type: hysteria2
 - name: 9|@bored_vpn
   obfs: salamander
   obfs-password: lmzo7ebpr6m8theh
@@ -96,21 +143,21 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
+- name: 9|@V2RayyNGvpn🇹🇷
+  obfs: salamander
+  obfs-password: T-me-V2RayyNGvpn-ioSniper
+  password: 5U7LBgpLNj
+  port: 443
+  server: 87.120.106.36
+  skip-cert-verify: true
+  sni: www.oracle.com
+  tls: false
+  type: hysteria2
 - name: 9|28@oneclickvpnkeys
   password: 8bc63720-5ec8-45b5-b6a6-9a21ffb490e8
   port: 443
   server: 31.76.28.28
   sni: argg5.auragg.org
-  tls: false
-  type: hysteria2
-- name: 9|@V2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: CRzpXvIiyI
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  sni: www.wordreference.com
   tls: false
   type: hysteria2
 - name: '9|@prrofile_purple   '
@@ -164,7 +211,7 @@ proxies:
   sni: wuhantravel.duckdns.org
   tls: false
   type: hysteria2
-- name: 9|🇩🇪@V2RayyNGvpn🇩🇪
+- name: 9|@V2RayyNGvpn🇪
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: S0Mq06tf1I
@@ -184,7 +231,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '9|🇩🇪@V2RayyNGvpn🇩🇪 #1'
+- name: 9|🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: Z7MFGgpuzh
@@ -213,7 +260,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '9|🇩🇪@V2RayyNGvpn🇩🇪 #2'
+- name: '9|🇩🇪@V2RayyNGvpn🇩🇪 #1'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: ockdTdb3vU
