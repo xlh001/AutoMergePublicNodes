@@ -241,6 +241,20 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
+- alpn:
+  - h2
+  - http/1.1
+  - h3
+  fingerprint: chrome
+  name: 9|best_internet_iran
+  obfs: salamander
+  obfs-password: tb46go2ezfjc11f9
+  password: gpek52gl59sw832k
+  port: 59182
+  server: wt.easyiran.org
+  sni: wt.easyiran.org
+  tls: false
+  type: hysteria2
 - name: '9|🇩🇪@V2RayyNGvpn🇩🇪 #3'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
