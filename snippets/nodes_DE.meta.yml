@@ -58,6 +58,18 @@ proxies:
   sni: germany1.h2corp.local
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: -🇩🇪 @VConfing
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 1w61o8j0slf0q9yj
+  port: 52021
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇩🇪
   obfs: salamander
   obfs-password: 6cmj1dymhm79hopl
@@ -107,6 +119,18 @@ proxies:
   port: 37003
   server: 179.61.251.253
   sni: de.jey.cc.cd
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '-🇩🇪 @VConfing #1'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: clz08qwil91241w7
+  port: 52021
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 🇩🇪All⁷ | @BigSmoke_Config

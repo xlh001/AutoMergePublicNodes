@@ -34,3 +34,27 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: 'VCONFING #1'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 1w61o8j0slf0q9yj
+  port: 52030
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 'VCONFING #2'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: clz08qwil91241w7
+  port: 52030
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
