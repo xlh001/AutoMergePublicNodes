@@ -24,7 +24,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 🇫🇷 ConfigV2RayNG
+  name: VCONFING
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 1m1xfvpaa5ek4omq
