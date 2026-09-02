@@ -59,7 +59,6 @@ hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52030?insecure=0&alpn=h
 hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52060?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40V2ray_Alpha%F0%9F%8C%8E%203
 hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52067?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#-%F0%9F%87%B9%F0%9F%87%B7%20%40VConfing%20%231
 hysteria2://1w61o8j0slf0q9yj@giftcard.gateway-stream.com:52076?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Channel%3A%20%40Daily_Configs%20%231
-hysteria2://2_hysteria2_fastlane_py5fqull8@130.49.219.99:443?insecure=0&sni=at3.h.fastlanehosting.ru#%F0%9F%87%A6%F0%9F%87%B9158422%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52000?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40MIGAVPNPRO
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52002?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40MIGAVPNPRO%20%231
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52013?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40MIGAVPNPRO%20%232
