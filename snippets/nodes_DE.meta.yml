@@ -50,6 +50,13 @@ proxies:
   sni: germany1.h2corp.local
   tls: false
   type: hysteria2
+- name: 🇩🇪158848 | ⚡️Telegram = t.me/S...
+  password: 1a17fbd6-a54f-456c-8e71-5282893e2b69
+  port: 443
+  server: 31.76.106.61
+  sni: gos.ultimagamest.com
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: -🇩🇪 @VConfing
@@ -68,6 +75,28 @@ proxies:
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 4savc5ig1n3549e4
+  port: 52021
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  client-fingerprint: chrome
+  name: dc-udp-🇩🇪 Germany-Berlin
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 8f0gvz5eul6omhq4
+  port: 52021
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪AZARBAYJAB1
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 8f0gvz5eul6omhq4
   port: 52021
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
@@ -132,5 +161,13 @@ proxies:
   port: 52029
   server: giftcard.gateway-stream.com
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 👝36@oneclickvpnkeys
+  password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
+  port: 443
+  server: 5.83.129.11
+  skip-cert-verify: true
+  sni: germany1.h2corp.local
   tls: false
   type: hysteria2
