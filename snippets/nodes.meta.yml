@@ -296,35 +296,11 @@ proxies:
   sni: germany1.h2corp.local
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: -🇫🇮 @VConfing
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 1m1xfvpaa5ek4omq
-  port: 52029
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: '@v2ray_phoenix'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 1m1xfvpaa5ek4omq
   port: 52029
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: VCONFING
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 1m1xfvpaa5ek4omq
-  port: 52030
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
@@ -345,66 +321,6 @@ proxies:
   obfs-password: fuw2k1ddrouwxr3u
   password: 1m1xfvpaa5ek4omq
   port: 52033
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: -🇹🇷 @VConfing
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 1m1xfvpaa5ek4omq
-  port: 52067
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: -🇩🇪 @VConfing
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 1w61o8j0slf0q9yj
-  port: 52021
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '-🇫🇮 @VConfing #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 1w61o8j0slf0q9yj
-  port: 52029
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 'VCONFING #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 1w61o8j0slf0q9yj
-  port: 52030
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '-🇹🇷 @VConfing #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 1w61o8j0slf0q9yj
-  port: 52067
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
@@ -547,7 +463,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '-🇩🇪 @VConfing #2'
+  name: '-🇩🇪 @VConfing #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 8f0gvz5eul6omhq4
@@ -569,7 +485,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '-🇫🇮 @VConfing #3'
+  name: '-🇫🇮 @VConfing #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 8f0gvz5eul6omhq4
@@ -581,7 +497,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 'VCONFING #2'
+  name: VCONFING
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: 8f0gvz5eul6omhq4
@@ -819,7 +735,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '-🇩🇪 @VConfing #3'
+  name: '-🇩🇪 @VConfing #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: clz08qwil91241w7
@@ -841,7 +757,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '-🇫🇮 @VConfing #4'
+  name: '-🇫🇮 @VConfing #2'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: clz08qwil91241w7
@@ -863,7 +779,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 'VCONFING #3'
+  name: 'VCONFING #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: clz08qwil91241w7
@@ -885,7 +801,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '-🇹🇷 @VConfing #3'
+  name: '-🇹🇷 @VConfing #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: clz08qwil91241w7
