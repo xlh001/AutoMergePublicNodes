@@ -744,6 +744,42 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: 🇫🇮165464 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: dmbbfqabkdu46mo3
+  port: 52001
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 🇫🇮165465 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: dmbbfqabkdu46mo3
+  port: 52002
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: 🇫🇮165466 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: dmbbfqabkdu46mo3
+  port: 52003
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 📀31@oneclickvpnkeys
   password: e0b9fb0f-1bbd-478b-9580-c2294778338b
   port: 8444
@@ -850,36 +886,6 @@ proxies:
   server: 5.129.235.85
   skip-cert-verify: true
   sni: www.linux.com
-  tls: false
-  type: hysteria2
-- name: '@v2ray313 کانالمون 🤍'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: jbmuokj7p4kg4h4s
-  port: 52021
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@v2ray313 کانالمون ⭐ #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: jbmuokj7p4kg4h4s
-  port: 52029
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@v2ray313 کانالمون ❤️‍🩹'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: jbmuokj7p4kg4h4s
-  port: 52067
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
 - alpn:
