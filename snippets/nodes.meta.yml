@@ -265,6 +265,13 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
+- name: 🇷🇺170800 | ⚡️Telegram = t.me/S...
+  password: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5
+  port: 22443
+  server: 91.240.86.70
+  sni: hy.quattro-tech.ru
+  tls: false
+  type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
   obfs: salamander
   obfs-password: dzcb7hv6i2kx2zze
@@ -281,6 +288,14 @@ proxies:
   port: 36758
   server: awlix1.pcjxq.digital
   sni: cdn77.dmtr.ru
+  tls: false
+  type: hysteria2
+- name: 🇷🇺170725 | ⚡️Telegram = t.me/S...
+  password: 5d0a6445-a30d-4522-bb1f-94f1d3ad63be
+  port: 2056
+  server: els1.mangshe.xyz
+  skip-cert-verify: true
+  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇷🇺
@@ -370,6 +385,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🇺🇸170730 | ⚡️Telegram = t.me/S...
+  password: CompanyHy2_2026!
+  port: 36712
+  server: 38.54.6.46
+  skip-cert-verify: true
+  sni: www.microsoft.com
+  tls: false
+  type: hysteria2
 - name: '@V2ray_confiig #1'
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -394,6 +417,28 @@ proxies:
   server: hysteria.udpgw.com
   skip-cert-verify: true
   sni: sni-here.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇿170801 | ⚡️Telegram = t.me/S...
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8080
+  server: 85.204.107.173
+  sni: hopp-romania-new.roxa.org
+  tls: false
+  type: hysteria2
+- name: 🇩🇿170803 | ⚡️Telegram = t.me/S...
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8080
+  server: 85.204.107.181
+  skip-cert-verify: true
+  sni: hopp-romania-new.roxa.org
+  tls: false
+  type: hysteria2
+- name: 🇩🇿170729 | ⚡️Telegram = t.me/S...
+  password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
+  port: 8443
+  server: 85.204.107.183
+  sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -520,6 +565,16 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
+- name: V2RayyNGvpn 🇩🇪
+  obfs: salamander
+  obfs-password: V2RayyNGvpn&Telegram
+  password: Ur0okuRxze
+  port: 443
+  server: 91.107.140.154
+  skip-cert-verify: false
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 🇩🇪V2RayyNGvpn 🇩🇪
   obfs: salamander
   obfs-password: V2RayyNGvpn&Telegram
@@ -640,34 +695,15 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 🏴‍☠️@FreakConfig
+- alpn:
+  - h3
+  name: 🇵🇱PL-🚀@VPNine1
   obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: dmbbfqabkdu46mo3
-  port: 52001
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '🏴‍☠️@FreakConfig #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: dmbbfqabkdu46mo3
-  port: 52002
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇦🇺@FreakConfig
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: dmbbfqabkdu46mo3
-  port: 52003
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
+  obfs-password: 2gFkILZBBf5wCR7WzOLNazu7
+  password: e31359b2-5cda-409b-a869-79f9645e2db9
+  port: 443
+  server: gaming-01.file-rkat.online
+  sni: gaming-01.file-rkat.online
   tls: false
   type: hysteria2
 - name: 'Telegram 🆔@Cnetvpn 🇺🇲 #1'
@@ -778,6 +814,14 @@ proxies:
   port: 52010
   server: giftcard.gateway-stream.com
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇫🇷170802 | ⚡️Telegram = t.me/S...
+  password: gf1
+  port: 443
+  server: 173.212.201.85
+  skip-cert-verify: true
+  sni: www.docker.com
   tls: false
   type: hysteria2
 - alpn:
