@@ -83,16 +83,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: -🇩🇪 @VConfing
+- name: '[ 🇩🇪 ] | @Cfox_SerVer #3'
   obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: ijrixp6yh62ectfw
-  port: 52021
-  server: giftcard.gateway-stream.com
+  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+  password: cd74c0a406664a5bc0bac098220a2468
+  port: 443
+  server: 2.27.59.206
   skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
+  sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
 - name: 🇩🇪@AZARBAYJAB1
