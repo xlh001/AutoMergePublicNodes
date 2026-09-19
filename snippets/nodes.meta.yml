@@ -267,7 +267,7 @@ proxies:
   sni: 151.247.197.253
   tls: false
   type: hysteria2
-- name: '@AZARBAYJAB1'
+- name: '@filembad #1'
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
