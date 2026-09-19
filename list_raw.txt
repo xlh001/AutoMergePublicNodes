@@ -6,7 +6,6 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.7:8443?sni=hopp-ger
 hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@137.131.167.179:443?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#%E5%92%95%E5%92%95%20%231
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443?insecure=1&sni=35.181.169.140#%E6%B3%95%E5%9B%BD
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=whatsapp.com#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#%E8%8B%B1%E5%9B%BD
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#%E5%98%8E
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#%E5%B7%B4%E8%A5%BF
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2
@@ -17,7 +16,6 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com#%F0%
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#%E9%98%BF%E8%81%94%E9%85%8B
 hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%E8%8A%AC%E5%85%B0
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@es1.xiaoliyu.cyou:4433?insecure=1#%F0%9F%90%8A92%40oneclickvpnkeys
-hysteria2://1d0be037-f650-4d33-b683-0fec61b2ccc3@13.143.129.130:23719?insecure=1&sni=13.143.129.130&obfs=salamander&obfs-password=gCytSLRsXmPSJIPLCtQz#%F0%9F%87%AB%F0%9F%87%AE176170%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#%40Begoo_VPN%20%C2%B2%E2%81%B9%E2%81%B0
 hysteria2://5bcodmhjtyfyyrqh@awlix1.pcjxq.digital:36758?sni=cdn77.dmtr.ru&obfs-password=dzcb7hv6i2kx2zze#%40awlix_ir
 hysteria2://617z9r1mbzbm1t5z@giftcard.gisora.ir:52000?insecure=0&sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%B7%F0%9F%87%BA
