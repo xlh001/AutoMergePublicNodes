@@ -340,7 +340,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 'Tel: @proxy_kafee'
+- name: 'Tel: @Daily_Configs'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -440,7 +440,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@filembad #3'
+- name: '[ 🇫🇮 ] | @Cfox_SerVer'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: xbr3ppxk7rv068c4
