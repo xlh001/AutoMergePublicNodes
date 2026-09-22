@@ -49,14 +49,6 @@ proxies:
   sni: rmgyvpn.rest
   tls: false
   type: hysteria2
-- name: 法国
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 35.181.169.140
-  skip-cert-verify: true
-  sni: 35.181.169.140
-  tls: false
-  type: hysteria2
 - name: 澳大利亚
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -138,6 +130,14 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
+- name: '40'
+  password: 3f63c86c-ac4a-4900-85cf-4fedf93c2ca5
+  port: 22443
+  server: 91.240.86.70
+  skip-cert-verify: false
+  sni: hy.quattro-tech.ru
+  tls: false
+  type: hysteria2
 - name: '@Begoo_VPN ²⁹⁰'
   obfs: salamander
   obfs-password: dzcb7hv6i2kx2zze
@@ -194,14 +194,6 @@ proxies:
   server: hys28.wba-pn.ru
   skip-cert-verify: true
   sni: hys28.wba-pn.ru
-  tls: false
-  type: hysteria2
-- name: '107'
-  password: HysTeria2026!Proxy
-  port: 8443
-  server: mz.hkychina.com
-  skip-cert-verify: false
-  sni: mz.hkychina.com
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -359,7 +351,7 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 🇩🇪178416 | ⚡️Telegram = t.me/S...
+- name: 'Channel: @Daily_Configs'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
