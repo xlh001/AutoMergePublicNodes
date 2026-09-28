@@ -8,36 +8,6 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- cipher: aes-128-gcm
-  name: 🇭🇰 香港2|@ripaojiedian
-  password: 17b70f72-fc4f-41a7-a32f-e0bbad7d1400
-  plugin: obfs
-  plugin-opts:
-    host: 3c183f1f4eae079d708e817ae656417a.baidu.com
-    mode: http
-  port: 36602
-  server: gd.bjnet2.com
-  type: ss
-- cipher: aes-128-gcm
-  name: 🇭🇰 香港3|@ripaojiedian
-  password: 17b70f72-fc4f-41a7-a32f-e0bbad7d1400
-  plugin: obfs
-  plugin-opts:
-    host: 3c183f1f4eae079d708e817ae656417a.baidu.com
-    mode: http
-  port: 36602
-  server: gd2.bjnet2.com
-  type: ss
-- alterId: 2
-  cipher: auto
-  name: 香港|@ripaojiedian
-  network: tcp
-  port: '30807'
-  server: v10.hdacd.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 0
   cipher: auto
   name: 香港3|@ripaojiedian
@@ -45,6 +15,7 @@ proxies:
   port: '443'
   server: ADncdOvLHR4M1P36.v.3dns.vip
   servername: ADncdOvLHR4M1P36.v.3dns.vip
+  skip-cert-verify: false
   tls: true
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
@@ -59,6 +30,7 @@ proxies:
   port: '443'
   server: kBONDXW9liFCi4h4.v.3dns.vip
   servername: kBONDXW9liFCi4h4.v.3dns.vip
+  skip-cert-verify: false
   tls: true
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
@@ -73,6 +45,7 @@ proxies:
   port: '443'
   server: aZW0eunYVdvRe73k.v.3dns.vip
   servername: aZW0eunYVdvRe73k.v.3dns.vip
+  skip-cert-verify: false
   tls: true
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
@@ -87,6 +60,7 @@ proxies:
   port: '443'
   server: syJ2gGUgMwBwQwQx.v.3dns.vip
   servername: syJ2gGUgMwBwQwQx.v.3dns.vip
+  skip-cert-verify: false
   tls: true
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
@@ -94,3 +68,13 @@ proxies:
     headers:
       Host: syJ2gGUgMwBwQwQx.v.3dns.vip
     path: /ws-vmess
+- alterId: 2
+  cipher: auto
+  name: 香港|@ripaojiedian
+  network: tcp
+  port: '30807'
+  server: v10.hdacd.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484

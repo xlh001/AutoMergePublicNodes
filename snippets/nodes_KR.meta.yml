@@ -6,6 +6,7 @@ proxies:
   port: '443'
   server: 8nTzyR5KNivfabaT.v.3dns.vip
   servername: 8nTzyR5KNivfabaT.v.3dns.vip
+  skip-cert-verify: false
   tls: true
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
