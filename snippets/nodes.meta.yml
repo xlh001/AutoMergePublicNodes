@@ -53,11 +53,10 @@ proxies:
   sni: srv-8718e6.frd21.ru
   tls: false
   type: hysteria2
-- name: '@tootffarangi🍓-2'
+- name: 🌟39@oneclickvpnkeys
   password: 06e88dd6-e264-4981-8c26-d7ab17348ab2
   port: 443
   server: 144.31.232.216
-  skip-cert-verify: false
   sni: fi01.clgate.network
   tls: false
   type: hysteria2
