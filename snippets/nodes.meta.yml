@@ -225,6 +225,15 @@ proxies:
   sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
+- name: 🇮🇷190459 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: ocs9pxjl0p8l8408
+  password: ajr2tvlpy4nkddrx
+  port: 51509
+  server: www.duravexv.ir
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: '@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
