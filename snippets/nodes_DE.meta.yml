@@ -9,6 +9,21 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🇩🇪190697 | ⚡️Telegram = t.me/S...
+  password: 267b3a79-81f2-42ac-a409-c23b05b6329d
+  port: 443
+  server: 188.241.241.33
+  skip-cert-verify: true
+  sni: dehy.bbobr.win
+  tls: false
+  type: hysteria2
+- name: '@GozargahAzad|🇩🇪 #1'
+  password: 8bd04756-3beb-4348-82c9-d35453df50ce
+  port: 20270
+  server: mai.song69.fun
+  sni: ''
+  tls: false
+  type: hysteria2
 - name: Telegram 🆔@cnetvpn 🇩🇪
   obfs: salamander
   obfs-password: 6cmj1dymhm79hopl
