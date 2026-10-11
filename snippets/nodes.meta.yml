@@ -17,7 +17,7 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: '@meliproxyy'
+- name: '@V2ray_Alpha🧳 5'
   obfs: salamander
   obfs-password: eba1b4766d2a26d6c167e2d2e9efabf4
   password: 033dc6b532
@@ -85,7 +85,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 'Channel : @Daily_Configs'
+- name: 🇩🇪192360 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
   password: 77f73bd5-51bf-4143-8ebd-02f56ba376f4
@@ -245,6 +245,16 @@ proxies:
   server: 155.94.134.183
   skip-cert-verify: false
   sni: srv-3fc7c9.21freedom.net
+  tls: false
+  type: hysteria2
+- name: 🇨🇭192387 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: mbQXP2ASuHbF6ZPq
+  password: capadm96216165
+  port: 443
+  server: 208.69.78.217
+  skip-cert-verify: true
+  sni: vpn.local
   tls: false
   type: hysteria2
 - name: 🇫🇮 @IRAN_V2PING
